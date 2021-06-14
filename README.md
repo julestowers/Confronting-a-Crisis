@@ -1,7 +1,7 @@
 # DH100 - Theory and Methods in Digital Humanities  
-### Dr. Adam Anderson, Summer2021
+Instructor: Dr. Adam Anderson, PhD 
 
-### Student: Juliana Torres, julianatorres@berkeley.edu
+Student: Juliana Torres, julianatorres@berkeley.edu
 
 ## About Me:
 I am a historian-in-training at UC Berkeley, and I am interested in Public History and the History of Ideas. I want to use the tools of Digital Humanities to research, analyze, and share interesting data about how ideas become popular. For this project, more specifically, I want to see if there is evidence of how America embarked on the New Deal mindset. 
