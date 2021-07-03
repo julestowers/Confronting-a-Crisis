@@ -1,5 +1,7 @@
 # Confronting a Crisis: An Exploratory Textual Analysis of the The Great Depression From Hoover to FDR 
 
+![Cartoon](./GIT/jobless.png)
+
 Student: Juliana Torres, julianatorres@berkeley.edu
 
 ## About Me:
