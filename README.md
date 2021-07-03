@@ -1,5 +1,4 @@
-# DH100 - Theory and Methods in Digital Humanities  
-Instructor: Dr. Adam Anderson, PhD 
+# Confronting a Crisis: An Exploratory Textual Analysis of the The Great Depression From Hoover to FDR 
 
 Student: Juliana Torres, julianatorres@berkeley.edu
 
